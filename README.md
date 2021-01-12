@@ -12,5 +12,5 @@ This repo holds the codes and models for the tasks requested on Magniphai.AI
 
 
 # Contents
-1. uncompressed 595 folders and combine them in one Datafram (.CSV)
+1. Uncompressing 595 folders and combining them in one Datafram (.CSV)
 2. Filteration and log2 transformation
